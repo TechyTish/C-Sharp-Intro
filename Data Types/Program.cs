@@ -6,7 +6,8 @@ namespace Data_Types
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //data types
+
         }
     }
 }
