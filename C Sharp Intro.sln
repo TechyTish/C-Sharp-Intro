@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Types", "Data Types\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{B5DB6371-8A28-4C57-9FB2-2AC34FA62F9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{D73496C4-B5E4-44C0-A80A-17C98A5F93CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B5DB6371-8A28-4C57-9FB2-2AC34FA62F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DB6371-8A28-4C57-9FB2-2AC34FA62F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DB6371-8A28-4C57-9FB2-2AC34FA62F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73496C4-B5E4-44C0-A80A-17C98A5F93CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73496C4-B5E4-44C0-A80A-17C98A5F93CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73496C4-B5E4-44C0-A80A-17C98A5F93CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73496C4-B5E4-44C0-A80A-17C98A5F93CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
