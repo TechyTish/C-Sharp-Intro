@@ -6,7 +6,15 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //variables
+            string myName = "Tish";
+            int myAge = 27;
+            
+            Console.WriteLine("My name is " + myName + " , and... ");
+            Console.WriteLine("I am " + myAge + " years old.");
+
+            //leave console window open
+            Console.ReadLine();
         }
     }
 }
